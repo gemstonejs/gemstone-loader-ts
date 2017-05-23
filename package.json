@@ -28,8 +28,8 @@
         "babel-eslint":                   "~7.2.3"
     },
     "dependencies" : {
-        "typescript":                     "^2.3.2",
-        "ts-loader":                      "^2.0.3"
+        "typescript":                     "^2.3.3",
+        "ts-loader":                      "^2.1.0"
     },
     "engines": {
         "node":                           ">=6.0.0"
