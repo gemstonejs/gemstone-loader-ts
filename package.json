@@ -19,7 +19,7 @@
         "url":  "http://github.com/gemstonejs/gemstone-loader-ts/issues"
     },
     "devDependencies": {
-        "eslint":                         "~4.3.0",
+        "eslint":                         "~4.4.1",
         "eslint-config-standard":         "~10.2.1",
         "eslint-plugin-standard":         "~3.0.1",
         "eslint-plugin-promise":          "~3.5.0",
@@ -29,7 +29,7 @@
     },
     "dependencies" : {
         "typescript":                     "^2.4.2",
-        "ts-loader":                      "^2.3.2"
+        "ts-loader":                      "^2.3.3"
     },
     "engines": {
         "node":                           ">=6.0.0"
